@@ -1,0 +1,2 @@
+# COVISTOCK : Statistical Analysis of Stock-Market Volatility before and after COVID-19 pandemic
+The breakout of COVID-19 has had an extraordinary impact on the global financial system. Due to the worldwide market disruptions, the Indian financial market also responded to the epidemic and experienced significant volatility. This project evaluates the volatility of indices such as the Nifty50 and the BSE Sensex S&P 500 by using daily closing prices. Furthermore, the study aimed to compare the stock market's return in the pre-COVID-19 and post-COVID-19 situations.
